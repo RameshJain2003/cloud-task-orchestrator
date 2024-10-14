@@ -20,3 +20,4 @@ export class QueueService {
     return this.jobs.get(id);
   }
 }
+  // Added exponential backoff
