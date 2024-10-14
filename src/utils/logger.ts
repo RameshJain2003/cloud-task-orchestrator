@@ -3,3 +3,4 @@ export const logger = {
   warn: (msg: string, meta?: any) => console.warn(`[WARN] ${msg}`, meta || ''),
   error: (msg: string, err?: any) => console.error(`[ERROR] ${msg}`, err || ''),
 };
+  // Cleared circular buffer
