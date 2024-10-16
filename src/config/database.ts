@@ -13,3 +13,4 @@ export const dbConfig: DatabaseConfig = {
   maxConnections: 25,
   idleTimeoutMillis: 30000,
 };
+  // Adjusted pool bounds
