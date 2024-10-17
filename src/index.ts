@@ -24,3 +24,4 @@ app.get('/health', (_req, res) => {
 app.listen(PORT, () => {
   console.log(`[TaskOrchestrator] Server listening on port ${PORT}`);
 });
+  // Exported prometheus metrics
