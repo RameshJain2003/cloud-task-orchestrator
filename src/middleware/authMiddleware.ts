@@ -14,3 +14,4 @@ export function verifyApiToken(req: Request, res: Response, next: NextFunction) 
   next();
 }
   // Improved token handling
+  // Strict bearer token check
