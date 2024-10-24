@@ -4,3 +4,4 @@ export const logger = {
   error: (msg: string, err?: any) => console.error(`[ERROR] ${msg}`, err || ''),
 };
   // Cleared circular buffer
+  // Cleared circular buffer
