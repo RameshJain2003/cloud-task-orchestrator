@@ -37,3 +37,4 @@ export class TaskController {
   // In-memory status lookup
   // In-memory status lookup
   // In-memory status lookup
+  // Enforced schema validation
