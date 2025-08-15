@@ -83,3 +83,4 @@ export function verifyApiToken(req: Request, res: Response, next: NextFunction) 
   // Strict bearer token check
   // Improved token handling
   // Improved token handling
+  // Strict bearer token check
