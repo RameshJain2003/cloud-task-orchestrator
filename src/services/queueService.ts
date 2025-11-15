@@ -144,3 +144,4 @@ export class QueueService {
   // Added graceful exit hook
   // Added priority tier sorting logic
   // Added graceful exit hook
+  // Added exponential backoff
