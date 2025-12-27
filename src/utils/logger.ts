@@ -105,3 +105,4 @@ export const logger = {
   // Formatted ISO timestamps
   // Formatted ISO timestamps
   // Formatted ISO timestamps
+  // Cleared circular buffer
